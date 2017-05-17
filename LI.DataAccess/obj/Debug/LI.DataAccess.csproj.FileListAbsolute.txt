@@ -1,0 +1,10 @@
+F:\projects\2016\LoanInfo\LI.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\2016\LoanInfo\LI.DataAccess\bin\Debug\LI.DataAccess.dll
+F:\projects\2016\LoanInfo\LI.DataAccess\bin\Debug\LI.DataAccess.pdb
+F:\projects\2016\LoanInfo\LI.DataAccess\bin\Debug\IBatisNet.DataMapper.dll
+F:\projects\2016\LoanInfo\LI.DataAccess\bin\Debug\LI.PlainObject.dll
+F:\projects\2016\LoanInfo\LI.DataAccess\bin\Debug\Castle.DynamicProxy.dll
+F:\projects\2016\LoanInfo\LI.DataAccess\bin\Debug\IBatisNet.Common.dll
+F:\projects\2016\LoanInfo\LI.DataAccess\bin\Debug\LI.PlainObject.pdb
+F:\projects\2016\LoanInfo\LI.DataAccess\obj\Debug\LI.DataAccess.dll
+F:\projects\2016\LoanInfo\LI.DataAccess\obj\Debug\LI.DataAccess.pdb

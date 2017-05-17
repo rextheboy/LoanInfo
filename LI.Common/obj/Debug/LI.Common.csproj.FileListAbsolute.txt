@@ -1,0 +1,5 @@
+F:\projects\2016\LoanInfo\LI.Common\bin\Debug\LI.Common.dll
+F:\projects\2016\LoanInfo\LI.Common\bin\Debug\LI.Common.pdb
+F:\projects\2016\LoanInfo\LI.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\2016\LoanInfo\LI.Common\obj\Debug\LI.Common.dll
+F:\projects\2016\LoanInfo\LI.Common\obj\Debug\LI.Common.pdb
